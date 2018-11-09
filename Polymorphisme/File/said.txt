@@ -1,0 +1,4 @@
+charset = UTF-8
+WindowsColor = said
+defaultfont = Arial
+lapin=2000
